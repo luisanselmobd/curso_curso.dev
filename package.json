@@ -1,0 +1,16 @@
+{
+  "name": "curso_curso.dev",
+  "version": "1.0.0",
+  "description": "Repositório para as prática do curso.dev.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "18.2",
+    "react-dom": "18.2"
+  }
+}
